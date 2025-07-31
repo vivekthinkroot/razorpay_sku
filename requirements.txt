@@ -1,0 +1,7 @@
+fastapi
+sqlmodel
+pydantic-settings
+httpx
+requests
+python-telegram-bot
+uvicorn
